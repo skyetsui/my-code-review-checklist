@@ -11,4 +11,5 @@
 1. Is there any test covering the implementations?
 1. Do the tests cover all the requirements?
 1. Do the tests cover the error cases?
+1. Are all the error logs of the tests expected?
 1. Do the implementations use the well maintained (a.k.a. not deprecated) libraries and APIs?
